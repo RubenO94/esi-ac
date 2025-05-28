@@ -1,0 +1,47 @@
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+<System>
+  <Provider Name="Microsoft-Windows-MemoryDiagnostics-Results" Guid="{5f92bc59-248f-4111-86a9-e393e12c6139}" /> 
+  <EventID>1101</EventID> 
+  <Version>0</Version> 
+  <Level>4</Level> 
+  <Task>0</Task> 
+  <Opcode>0</Opcode> 
+  <Keywords>0x8000000000000000</Keywords> 
+  <TimeCreated SystemTime="2025-05-27T21:50:35.0791081Z" /> 
+  <EventRecordID>9264</EventRecordID> 
+  <Correlation /> 
+  <Execution ProcessID="6084" ThreadID="1992" /> 
+  <Channel>System</Channel> 
+  <Computer>LAPTOP-PLTJ5I3B</Computer> 
+  <Security UserID="S-1-5-18" /> 
+  </System>
+<UserData>
+<Results xmlns="http://manifests.microsoft.com/win/2005/08/windows/Reliability/Postboot/Events">
+  <LaunchType>Manual</LaunchType> 
+  <CompletionType>Pass</CompletionType> 
+  <MemorySize>15297</MemorySize> 
+  <TestType>10</TestType> 
+  <TestDuration>1816</TestDuration> 
+  <TestCount>12</TestCount> 
+  <NumPagesTested>3883126</NumPagesTested> 
+  <NumPagesUnTested>2417</NumPagesUnTested> 
+  <NumBadPages>0</NumBadPages> 
+  <T1NumBadPages>0</T1NumBadPages> 
+  <T2NumBadPages>0</T2NumBadPages> 
+  <T3NumBadPages>0</T3NumBadPages> 
+  <T4NumBadPages>0</T4NumBadPages> 
+  <T5NumBadPages>0</T5NumBadPages> 
+  <T6NumBadPages>0</T6NumBadPages> 
+  <T7NumBadPages>0</T7NumBadPages> 
+  <T8NumBadPages>0</T8NumBadPages> 
+  <T9NumBadPages>0</T9NumBadPages> 
+  <T10NumBadPages>0</T10NumBadPages> 
+  <T11NumBadPages>0</T11NumBadPages> 
+  <T12NumBadPages>0</T12NumBadPages> 
+  <T13NumBadPages>0</T13NumBadPages> 
+  <T14NumBadPages>0</T14NumBadPages> 
+  <T15NumBadPages>0</T15NumBadPages> 
+  <T16NumBadPages>0</T16NumBadPages> 
+  </Results>
+  </UserData>
+  </Event>
